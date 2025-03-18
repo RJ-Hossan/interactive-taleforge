@@ -55,8 +55,8 @@ Make sure you have **Node.js** and **npm** installed.
 
 ### **🔹 Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/interactive-story-generator.git
-cd interactive-story-generator
+git clone https://github.com/RJ-Hossan/taleforge.git
+cd taleforge
 ```
 
 ### **🔹 Install Dependencies**  
